@@ -1,0 +1,11 @@
+.container {
+    margin-top: 3em;
+    background-color: #c1c1c1;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
